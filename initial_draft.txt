@@ -1,0 +1,6 @@
+This is the initial draft for this project.
+
+Task list:
+1)  Suggest name for project.
+2)  Defining flow of application.
+3)  Define Architecture of application.
