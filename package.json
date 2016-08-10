@@ -1,0 +1,23 @@
+{
+  "name": "pulsar-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "author": "DL",
+  "dependencies": [
+    "express",
+    "req-flash",
+    "cookie-parser",
+    "express-session",
+    "body-parser",
+    "passport",
+    "express-mysql-session",
+    "mysql",
+    "md5",
+    "passport-local",
+    "node-gcm"
+  ],
+  "scripts": {
+    "start": "node app.js"
+  }
+}
